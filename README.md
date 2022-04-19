@@ -16,6 +16,9 @@ If you want to use BlueBall on your server, you can add our public instance by [
 
 You can also host BlueBall yourself, however we won't give support for people that are trying to selfhost her, we don't want to spend hours trying to troubleshoot other people issues that only happens on selfhosted instances, so you should at least know how to troubleshoot issues, if you find any.
 
+## ⚙️ How does it work
+Coming Soon
+
 ## ⏳ How can he is online 24 hours per day?
 
 First of all, it wasn't something that simple to think about, I created this whole application and uploaded it to Replit so I could have it online in a cloud.
