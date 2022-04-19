@@ -10,3 +10,8 @@ With features to entertain and engage your members, moderation features to keep 
 And it's all thanks to a 21-year-old idle boy trying to learn something new!
 
 It's never been easier to make your server unique and extraordinary!
+
+## 🤔 How can I add her?
+If you want to use BlueBall on your server, you can add our public instance by [clicking here](https://discord.com/api/oauth2/authorize?client_id=465855877623054336&permissions=8&scope=bot)! We recommend using the public instance, after all, my guilds already use, trust and love his, so why not try it out?
+
+You can also host BlueBot yourself, however we won't give support for people that are trying to selfhost her, we don't want to spend hours trying to troubleshoot other people issues that only happens on selfhosted instances, so you should at least know how to troubleshoot issues, if you find any.
