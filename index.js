@@ -15,7 +15,8 @@ const config = require("./config.json"); //Pegando o prefixo do bot para respost
 
 //client.login(process.env.TOKEN); //Ligando o Bot caso ele consiga acessar o token
 
-client.login('TOKEN');
+const mySecret = process.env['TOKEN']
+client.login(mySecret);
 
 client.on('message', message => {
      if (message.author.bot) return;
